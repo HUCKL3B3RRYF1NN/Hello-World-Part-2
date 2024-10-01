@@ -9,7 +9,9 @@ body {
     padding: 0 20%;
     text-align: center;
 }
-
+h1 {
+    text-align: left;
+}
 img {
     width: 100%;
 }
