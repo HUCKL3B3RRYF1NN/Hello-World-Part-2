@@ -2,9 +2,12 @@
 
 body {
     background: #fff;
+    color: #424242;
     font-family: Helvetica, sans-serif;
-    border-top: 10px solid #000000;
+    border-top: 10px solid #424242;
     margin: 0;
+    padding: 0 20%;
+    text-align: center;
 }
 
 img {
