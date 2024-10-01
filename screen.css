@@ -34,7 +34,6 @@ code {
 img {
     width: 800px;
     height: 227px;
-    scale: 125%;
     object-fit: cover;
     object-position: 50% 100%;
     text-align: center;
