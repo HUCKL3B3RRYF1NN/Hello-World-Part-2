@@ -2,44 +2,11 @@
 
 body {
     background: #ffffff;
-    color: #000000;
     font-family: Helvetica, sans-serif;
-    border-top: 10px solid #424242;
+    border-top: 15px solid #424242;
     margin: 0;
-    margin-top: 20;
-    padding: 0 15%;
-    text-align: left;
-    font-size: 18;
-}
-
-h1 {
-    color: #424242;
-    font-size: 56;
-}
-
-h2 {
-    font-size: 32;
-    border-radius: 25px;
-    background-color: #e9eaec;
-    padding: 20px;
-    width: 350px;
-    height: 350px;
-}
-
-p {
-    background-color: #e9eaec;
-}
-
-code {
-    color: #ffffff;
-    background-color: #424242;
 }
 
 img {
-    width: 800px;
-    height: 227px;
-    object-fit: cover;
-    object-position: 50% 100%;
-    text-align: center;
-    border-radius: 25px;
+    width: 100%;
 }
